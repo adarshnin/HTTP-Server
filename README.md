@@ -1,7 +1,9 @@
 Scorpion HTTP Server
 
-How to run the Server?
+**How to run the Server?**
+
 ./server.py
 
-Automated Testing
+**Automated Testing**
+
 ./test.py
