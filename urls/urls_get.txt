@@ -1,0 +1,3 @@
+/index.html
+/files/bg-image.jpg
+/files/tunes.mp3
